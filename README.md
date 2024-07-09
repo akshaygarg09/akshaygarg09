@@ -21,8 +21,8 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="60" height="60" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="vim" width="60" height="60" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="60" height="60" /></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="juptier" width="60" height="60" /></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwindcss" width="60" height="60" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" width="60" height="60" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" width="60" height="60" /></a>
   
 </p>
 <!--
